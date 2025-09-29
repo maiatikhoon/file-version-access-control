@@ -2,6 +2,7 @@
 const _collectionName = {
 
     User: "User",
+    Repo: "Repo",
 }
 
 const _user_type = {
